@@ -1,4 +1,4 @@
-### Bug:java.net.BindException###
+### Bug:java.net.BindException
 
 #### Bug Description
 在tomcat运行过程中，出现端口占用现象
